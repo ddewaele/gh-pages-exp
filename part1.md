@@ -14,9 +14,9 @@ The goal is to create a skeleton project that
 - uses ActionBarSherlock.
 - can run on older versions of Android (2.x and up).
 
-I've also created a screencast that covers setting up a skeleton project (not covering ActionBarSherlock).
+*Updated* - I've also created a screencast that covers setting up a skeleton project (not covering ActionBarSherlock).
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/Iz5cfPV200E" frameborder="0"/>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Iz5cfPV200E?vq=hd720" frameborder="0"/>
 
 ###Google Maps Android API v2
  
